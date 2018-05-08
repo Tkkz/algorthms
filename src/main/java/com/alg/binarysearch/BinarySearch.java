@@ -1,7 +1,11 @@
 package com.alg.binarysearch;
 
+import java.util.HashMap;
+
 /**
- * 二分法 1946年提出
+ * 二分法 1946年提出O(            0logn)
+ *
+ * 主要考虑边界问题
  */
 public class BinarySearch {
     //[a b]
